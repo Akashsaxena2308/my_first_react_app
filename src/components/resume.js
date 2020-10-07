@@ -26,11 +26,11 @@ class Resume extends Component {
 </p>
             <hr style={{ borderTop: '3px solid #833fb2', width: '50%' }} />
             <h5>Address</h5>
-            <p>Avenger's anus</p>
+            <p>Avenger</p>
             <h5>Phone</h5>
             <p>696969696</p>
             <h5>Email</h5>
-            <p>CooldudeThanos@ironmansucks.com</p>
+            <p>CooldudeThanos@ironman.com</p>
             <h5>Web</h5>
             <p>nahi pata</p>
             <hr style={{ borderTop: '3px solid #833fb2', width: '50%' }} />
